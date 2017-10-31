@@ -46,7 +46,7 @@
     "standard-version": "^4.0.0",
     "ts-jest": "^21.0.0",
     "tslint": "^5.2.0",
-    "typescript": "^2.3.2"
+    "typescript": "^2.6.1"
   },
   "peerDependencies": {
     "typescript": "^2.3.2"
